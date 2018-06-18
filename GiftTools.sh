@@ -34,15 +34,8 @@ ctrl_c() {
 	read enter
 	exit
 }
-
-echo -e $red     _____ _  __ _ _______          _     
-echo -e $white  / ____(_)/ _| |__   __|        | |    
-echo -e $red   | |  __ _| |_| |_ | | ___   ___ | |___ 
-echo -e $white | | |_ | |  _| __|| |/ _ \ / _ \| / __|
-echo -e $red   | |__| | | | | |_ | | (_) | (_) | \__ \
-echo -e $white  \_____|_|_|  \__||_|\___/ \___/|_|___/
-                                        
-                                        
+  
+figlet -f slant 'GiftTools' | lolcat
 
 sleep 1
 echo "Tools For Defacer And Hiburan"
