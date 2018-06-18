@@ -1,4 +1,4 @@
-Halo Untuk Para Temanku Yang Udah Memberi Aku Semangat Karna Tanpa Kalian Tools Ini Tidak Akan Pernah Lahir
+Halo Untuk Temanku Yang Udah Memberi Aku Semangat Karna Tanpa Kalian Tools Ini Tidak Akan Pernah Lahir
 Tools Saya Adalah Untuk Pestesting Website 
 Disini Masih Dalam Tahap Untuk Menyempurnakan 
 Untuk Daftar Tools Yang Saya Cantumkan 
