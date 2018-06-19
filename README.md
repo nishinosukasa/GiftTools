@@ -99,5 +99,5 @@ Untuk Daftar Tools Yang Saya Cantumkan
   Thanks To : GitHub
   Thanks To : All Fried No Life 
   
-  KuPersembahkan Tools Ini Untuk Diriku Sendiri Yang Pasti :V 
+  KuPersembahkan Tools Ini Untuk Diriku Sendiri Yang Pasti :V
 
