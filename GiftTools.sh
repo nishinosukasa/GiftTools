@@ -1314,7 +1314,7 @@ fi
 if [ $bro = 45 ] || [ $bro = 45 ]
 then
 clear
-echo -e $red " installing Ip GeoLocation "
+echo -e $red " installing OSIF "
 sleep
 apt-get update && apt-get upgrade
 apt-get install git && apt-get install python
