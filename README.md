@@ -71,6 +71,28 @@ Untuk Daftar Tools Yang Saya Cantumkan
   
   Enjoy Me Fried 
   
+  1.ko-dork
+  Untuk Dorking Dork Metode SQL
+  2. encrypter/decrypter
+  encrypter Hurup Normal Jadi MD5
+  decrypter Merubah Huruf MD5 Jadi Normal
+  3. Mass Drupal RCE
+  Adalah Poc Deface Untuk Metode Drupal RCE
+  4. Mass Webdav
+  Adalah Metode Deface Dengan Metode Webdav Syarat Harus Root Hape Kalau Lewat Termux ^_^ 
+  5. admin-finder
+  Mencari Akses Login Suatu Website 
+  6. CMSmap
+  Adalah Mencari CMS Suatu Website 
+  7. Create Script Deface
+  Membuat Script Deface Untuk Save Udahtaulah
+  $ mv hasilsc.html /sdcard/
+  Dan Liat Memory Internal Udah Tersave
+  8. Zone-H Mass Notif
+  Upload Hasil Deface Kamu Kemiror Zone-H
+  Terlebih Dahulu Buat File list.txt Dan Isi Dengan Korban Hasil Defacemu Yah
+  9. Brutesploit
+  
   
   
   Thanks : ./Tsuki - ZanTri - D3w1 Aqu4 - Mr.cr3t - KamiKazeHaxor - Mrcakil - All Member NostalgiaXploit - All Member Kentang Cyber Securty
