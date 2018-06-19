@@ -52,6 +52,27 @@ Untuk Daftar Tools Yang Saya Cantumkan
   A. INstalling Module Perl
   
   
+  How To Install
+  
+  $ apt update
+  $ apt upgrade -y
+  $ apt install git -y
+  $ apt install figlet -y
+  $ apt install toilet -y
+  $ apt install ruby -y
+  $ gem install lolcat
+  $ git clone https://github.com/nishinosukasa/GiftTools.git
+  $ ls
+  $ cd GiftTools
+  $ ls
+  $ chmod 777 GiftTools.sh
+  $ ls
+  $ bash GiftTools.sh
+  
+  Enjoy Me Fried 
+  
+  
+  
   Thanks : ./Tsuki - ZanTri - D3w1 Aqu4 - Mr.cr3t - KamiKazeHaxor - Mrcakil - All Member NostalgiaXploit - All Member Kentang Cyber Securty
   Thanks To : GitHub
   Thanks To : All Fried No Life 
